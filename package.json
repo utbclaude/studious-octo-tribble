@@ -1,0 +1,10 @@
+{
+  "name": "coaching-toolkit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Session-plan generator, availability & attendance tracker and player-development dashboard for football coaches.",
+  "scripts": {
+    "test": "node --test tests/logic.test.js"
+  },
+  "license": "MIT"
+}
